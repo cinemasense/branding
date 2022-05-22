@@ -12,9 +12,9 @@
 | ![#1BDED7](http://via.placeholder.com/48/1BDED7?text=+) | Highlight Blue | `#1BDED7` |
 
 ## Cinema Sense
-| Original | No wave |
-| --- | --- |
-| <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> |
+| Original | No wave | App icon |
+| --- | --- | --- |
+| <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> | <img src="app/icon.png" width="256" alt="Cinema Sense Logo" /> |
 
 ## Crocodile
 | Original | No text |
