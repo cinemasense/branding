@@ -1,0 +1,10 @@
+/* For use as a global CSS style */
+:root {
+	--black: #000000;
+	--white: #FFFFFF;
+	--dark-green: #0C645A;
+	--middle-green: #13A292;
+	--highlight-green: #18CDB9;
+	--middle-blue: #16B5AF;
+	--highlight-blue: #1BDED7;
+}
