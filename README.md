@@ -1,6 +1,6 @@
 <img src="banner-white.png" alt="Cinema Sense Logo" />
 
-## Cinema Sense
+## Icons
 | Original | No wave | App icon |
 | --- | --- | --- |
 | <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> | <img src="app/icon.png" width="256" alt="Cinema Sense Logo" /> |
