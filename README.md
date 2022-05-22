@@ -11,6 +11,6 @@
 | <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> |
 
 ## Crocodile
-| Original |
-| --- |
-| <img src="crocodile/FatCrocodile.svg" width="256" alt="Crocodile Logo" /> |
+| Original | No text |
+| --- | --- |
+| <img src="crocodile/FatCrocodile.svg" width="256" alt="Crocodile Logo" /> | <img src="crocodile/FatCrocodileIcon.svg" width="256" alt="Crocodile Logo" /> |
