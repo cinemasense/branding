@@ -1,5 +1,10 @@
 <img src="banner-white.png" alt="Cinema Sense Logo" />
 
+## Icons
+| Original | No wave | App icon |
+| --- | --- | --- |
+| <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> | <img src="app/icon.png" width="256" alt="Cinema Sense Logo" /> |
+
 ## Colors
 | Preview | Name | Hex |
 | --- | --- | --- |
@@ -10,13 +15,3 @@
 | ![#18CDB9](http://via.placeholder.com/48/18CDB9?text=+) | Highlight Green | `#18CDB9` |
 | ![#16B5AF](http://via.placeholder.com/48/16B5AF?text=+) | Middle Blue | `#16B5AF` |
 | ![#1BDED7](http://via.placeholder.com/48/1BDED7?text=+) | Highlight Blue | `#1BDED7` |
-
-## Cinema Sense
-| Original | No wave | App icon |
-| --- | --- | --- |
-| <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> | <img src="app/icon.png" width="256" alt="Cinema Sense Logo" /> |
-
-## Crocodile (Old Design)
-| Original | No text |
-| --- | --- |
-| <img src="crocodile/FatCrocodile.svg" width="256" alt="Crocodile Logo" /> | <img src="crocodile/FatCrocodileIcon.svg" width="256" alt="Crocodile Logo" /> |
