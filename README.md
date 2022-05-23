@@ -1,4 +1,4 @@
-<img src="banner-white.png" alt="Cinema Sense Logo" />
+<img src="banner-whitetransparent.png" alt="Cinema Sense Logo" />
 
 ## Icons
 | Original | No wave | App icon |
