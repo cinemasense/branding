@@ -15,3 +15,8 @@
 | ![#18CDB9](http://via.placeholder.com/48/18CDB9?text=+) | Highlight Green | `#18CDB9` |
 | ![#16B5AF](http://via.placeholder.com/48/16B5AF?text=+) | Middle Blue | `#16B5AF` |
 | ![#1BDED7](http://via.placeholder.com/48/1BDED7?text=+) | Highlight Blue | `#1BDED7` |
+
+## Crocodile (Old Design)
+| Original | No text |
+| --- | --- |
+| <img src="crocodile/FatCrocodile.svg" width="256" alt="Crocodile Logo" /> | <img src="crocodile/FatCrocodileIcon.svg" width="256" alt="Crocodile Logo" /> |
