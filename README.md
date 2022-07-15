@@ -8,8 +8,12 @@
 ## Colors
 | Preview | Name | Hex |
 | --- | --- | --- |
+| ![#000000](http://via.placeholder.com/48/000040?text=+) | Navy | `#000040` |
 | ![#000000](http://via.placeholder.com/48/000000?text=+) | Black | `#000000` |
 | ![#FFFFFF](http://via.placeholder.com/48/FFFFFF?text=+) | White | `#FFFFFF` |
+
+## Blind Sea
+<img src="blindsea.png" width="512" alt="Blind Sea Logo" />
 
 ## Crocodile Labs (Old Design)
 | Original | No text |
