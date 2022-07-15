@@ -8,7 +8,7 @@
 ## Colors
 | Preview | Name | Hex |
 | --- | --- | --- |
-| ![#000000](http://via.placeholder.com/48/000040?text=+) | Navy | `#000040` |
+| ![#000000](http://via.placeholder.com/48/11263B?text=+) | Navy | `#11263B` |
 | ![#000000](http://via.placeholder.com/48/000000?text=+) | Black | `#000000` |
 | ![#FFFFFF](http://via.placeholder.com/48/FFFFFF?text=+) | White | `#FFFFFF` |
 
