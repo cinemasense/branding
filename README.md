@@ -11,7 +11,7 @@
 | ![#000000](http://via.placeholder.com/48/000000?text=+) | Black | `#000000` |
 | ![#FFFFFF](http://via.placeholder.com/48/FFFFFF?text=+) | White | `#FFFFFF` |
 
-## Crocodile (Old Design)
+## Crocodile Labs (Old Design)
 | Original | No text |
 | --- | --- |
-| <img src="crocodile/FatCrocodile.svg" width="256" alt="Crocodile Logo" /> | <img src="crocodile/FatCrocodileIcon.svg" width="256" alt="Crocodile Logo" /> |
+| <img src="crocodile/CrocodileLabs.svg" width="256" alt="Crocodile Logo" /> | <img src="crocodile/CrocodileLabsIcon.svg" width="256" alt="Crocodile Logo" /> |
