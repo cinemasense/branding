@@ -13,7 +13,7 @@
 | ![#FFFFFF](http://via.placeholder.com/48/FFFFFF?text=+) | White | `#FFFFFF` |
 
 ## Blind Sea
-<img src="blindsea.png" width="512" alt="Blind Sea Logo" />
+<img src="app/blind-sea.png" width="512" alt="Blind Sea Logo" />
 
 ## Crocodile Labs (Old Design)
 | Original | No text |
