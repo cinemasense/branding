@@ -1,9 +1,9 @@
-<img src="banner-whitetransparent.png" alt="Cinema Sense Logo" />
+<img src="banner-whitetransparent.png" alt="CinemaSense Logo" />
 
 ## Icons
 | Original | No wave | App icon |
 | --- | --- | --- |
-| <img src="logo.svg" width="256" alt="Cinema Sense Logo" /> | <img src="logo-nowave.svg" width="256" alt="Cinema Sense Logo" /> | <img src="app/icon.png" width="256" alt="Cinema Sense Logo" /> |
+| <img src="logo.svg" width="256" alt="CinemaSense Logo" /> | <img src="logo-nowave.svg" width="256" alt="CinemaSense Logo" /> | <img src="app/icon.png" width="256" alt="CinemaSense Logo" /> |
 
 ## Colors
 | Preview | Name | Hex |
